@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Docker image name, tag, and container name
-IMAGE_NAME="sujith7744/sujith13"
+IMAGE_NAME="sujith7744/test"
 TAG="latest"
 CONTAINER_NAME="my-container"
 
